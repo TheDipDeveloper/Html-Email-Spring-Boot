@@ -1,5 +1,7 @@
 # Send Email with Thymeleaf Template in Spring Boot
 
+# Watch demo video on YouTube: https://youtu.be/feiTG22SMmQ
+
 CURL: <code>
 curl --location 'http://localhost:8080/sendMailWithHtml' \
 --header 'Content-Type: application/json' \
